@@ -10,6 +10,6 @@ namespace DevTeams_Challenge_Repository
     {
         //This is our Repository class that will hold our directory (which will act as our database) and methods that will directly talk to our directory.
 
-        private List<Developer> _devRepo = new List<Developer>();
+        private List<Developer> _devDirectory = new List<Developer>();
     }
 }
